@@ -1,0 +1,64 @@
+{
+  "minecraft": {
+    "version": "1.16.5",
+    "modLoaders": [
+      {
+        "id": "forge-36.1.0",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "My Little Extra",
+  "version": "1.0.0",
+  "author": "immeraufdemhund",
+  "files": [
+    {
+      "projectID": 422301,
+      "fileID": 3263420,
+      "required": true
+    },
+    {
+      "projectID": 372534,
+      "fileID": 3190867,
+      "required": true
+    },
+    {
+      "projectID": 228756,
+      "fileID": 3105315,
+      "required": true
+    },
+    {
+      "projectID": 220318,
+      "fileID": 3236010,
+      "required": true
+    },
+    {
+      "projectID": 402231,
+      "fileID": 3260454,
+      "required": true
+    },
+    {
+      "projectID": 238222,
+      "fileID": 3245079,
+      "required": true
+    },
+    {
+      "projectID": 365460,
+      "fileID": 3117043,
+      "required": true
+    },
+    {
+      "projectID": 361385,
+      "fileID": 3076451,
+      "required": true
+    },
+    {
+      "projectID": 400514,
+      "fileID": 3171686,
+      "required": true
+    }
+  ],
+  "overrides": "overrides"
+}
